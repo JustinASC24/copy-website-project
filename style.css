@@ -1,0 +1,35 @@
+div {
+    font-family: sans-serif; 	
+    background-color: black; 	
+    color: #d2d4d6; 	
+    font-size: 20px;	
+}
+
+#vision_pro {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+nav {
+    background-color: black; 
+    display: flex;   
+    justify-content: center; 
+    align-items: center;
+}
+
+img {
+    width: 60px;
+}
+
+.items:hover {
+    background-color: gray;
+    opacity: 0.5;
+}
+
+a {
+    width: 6%;
+    text-align: center;
+    text-decoration: none;
+ }
+ 
